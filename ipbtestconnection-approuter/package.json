@@ -9,7 +9,7 @@
 		"@sap/approuter": "^14.0.0"
 	},
 	"scripts": {
-		"start": "node node_modules/@sap/approuter/approuter.js",
+		"start": "node index.js",
 		"start-local": "node node_modules/@sap/html5-repo-mock/index.js"
 	}
 }

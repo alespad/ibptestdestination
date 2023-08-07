@@ -4,7 +4,8 @@
       {
           "source": "(.*)",
           "target": "$1",
-          "destination": "SYSCONS_IBP_0720"
+          "destination": "SYSCONS_IBP_0720",
+          "authenticationType": "basic"
       }
   ]
 }
